@@ -7,7 +7,7 @@ import Kyc from "./pages/Kyc";
 import LogLayout from "./AppLayout/LogLayout";
 import AccountManagement from "./pages/AccountManagement";
 import Profile from "./pages/Profile";
-import Rentals from "./pages/rentals";
+import Rentals from "./pages/Rentals";
 import Product from "./pages/Product";
 import Cart from "./pages/Cart";
 import CreateListing from "./pages/CreateListing";
